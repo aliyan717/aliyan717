@@ -2,59 +2,93 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Your Name - Resume</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aliyan Hassan - Resume</title>
   <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap" rel="stylesheet" />
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body>
 
-  <header>
-    <h1>Your Name</h1>
-    <p>Electrical Engineering Student</p>
-  </header>
+    <header class="main-header">
+        <div class="header-content">
+          <div class="info">
+            <h1>Aliyan Hassan</h1>
+            <p class="tagline">Electrical Engineering Graduate</p>
+            <p><i class="fas fa-map-marker-alt"></i> Gujranwala, Pakistan</p>
+            <p><i class="fas fa-envelope"></i> <a href="mailto:aliyank7171@gmail.com">aliyank7171@gmail.com</a></p>
+            <p><i class="fas fa-phone"></i> 03279809298</p>
+            <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/aliyan-hassan-" target="_blank">LinkedIn Profile</a></p>
+          </div>
+      
+          <div class="profile-pic">
+            <img src="your-photo.jpg" alt="Aliyan Hassan Profile Photo" />
+          </div>
+        </div>
+      </header>
+      
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>Write a short paragraph about your interests, goals, and what you're passionate about.</p>
-  </section>
+  <main class="container">
 
-  <section id="education">
-    <h2>Education</h2>
-    <ul>
-      <li><strong>BSc Electrical Engineering</strong> – GIFT University (2021–2025)</li>
-    </ul>
-  </section>
+    <section>
+      <h2><i class="fas fa-user"></i> About Me</h2>
+      <p>Recent B.S. Electrical Engineering graduate with a solid foundation in circuit analysis, embedded systems, digital signal processing, and power electronics. Passionate about applying technical skills in real-world projects.</p>
+    </section>
 
-  <section id="skills">
-    <h2>Skills</h2>
-    <ul class="skills-list">
-      <li>MATLAB</li>
-      <li>Embedded Systems</li>
-      <li>C++</li>
-      <li>Proteus</li>
-      <li>HTML/CSS</li>
-    </ul>
-  </section>
+    <section>
+      <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+      <ul>
+        <li><strong>BS in Electrical Engineering</strong><br>
+        GIFT University – Expected: September 2025<br>
+        GPA: 3.07 / 4.0</li>
+      </ul>
+    </section>
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <ul>
-      <li>
-        <strong>Smart Irrigation System</strong> – 
-        <a href="https://github.com/yourusername/smart-irrigation">GitHub Repo</a>
-      </li>
-      <li>
-        <strong>Home Automation Using Arduino</strong> – 
-        <a href="https://github.com/yourusername/home-automation">GitHub Repo</a>
-      </li>
-    </ul>
-  </section>
+    <section>
+      <h2><i class="fas fa-briefcase"></i> Experience</h2>
+      <ul>
+        <li><strong>Intern</strong> – 132kV Grid Station, GEPCO<br>
+        <em>Sept–Oct 2024</em><br>
+        Hands-on experience with power transmission, transformers, breakers, relays.</li>
+      </ul>
+    </section>
 
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: yourname@example.com</p>
-    <p>GitHub: <a href="https://github.com/yourusername">yourusername</a></p>
-  </section>
+    <section>
+      <h2><i class="fas fa-certificate"></i> Certifications</h2>
+      <ul>
+        <li>Python for Everybody – University of Michigan (2025)</li>
+        <li>Python Data Structures – University of Michigan (2025)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><i class="fas fa-laptop-code"></i> Projects</h2>
+      <div class="project">
+        <h3>Hand Gestures Controlled Smart Wheelchair</h3>
+        <p>Arduino project using MPU6050 + NRF24L01 for wireless control of a wheelchair.</p>
+        <a href="https://github.com/yourusername/smart-wheelchair" class="button" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
+      </div>
+      <div class="project">
+        <h3>Temperature Control System</h3>
+        <p>Arduino-based thermistor + DC fan system to maintain set temperature.</p>
+        <a href="https://github.com/yourusername/temp-control" class="button" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
+      </div>
+    </section>
+
+    <section>
+      <h2><i class="fas fa-tools"></i> Skills</h2>
+      <ul class="skills">
+        <li>⚙️ C, C++ (Advanced)</li>
+        <li>🐍 Python (Intermediate)</li>
+        <li>🧪 MATLAB/Simulink</li>
+        <li>💡 LTspice, Proteus</li>
+        <li>📐 AutoCAD</li>
+        <li>🌐 HTML/CSS</li>
+      </ul>
+    </section>
+
+  </main>
 
 </body>
 </html>
