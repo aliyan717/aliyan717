@@ -6,7 +6,7 @@ This repository hosts my personal **digital CV**, built using HTML/CSS and deplo
 
 ## 🚀 Live CV Website
 
-🔗 [View My Resume](https://yourusername.github.io/your-repo-name)
+🔗 [View My Resume](https://aliyan717.github.io/aliyan717/)
 
 *(Replace the URL above with your actual GitHub Pages link)*
 
