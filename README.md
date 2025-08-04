@@ -1,16 +1,41 @@
-## Hi there 👋
+# Aliyan Hassan - Digital Resume
 
-<!--
-**aliyan717/aliyan717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm **Aliyan Hassan**, a passionate Electrical Engineering graduate from GIFT University with a strong interest in embedded systems, digital signal processing, and modern automation technologies.
 
-Here are some ideas to get you started:
+This repository hosts my personal **digital CV**, built using HTML/CSS and deployed via GitHub Pages. It highlights my education, skills, projects, certifications, and work experience — all in a clean, responsive layout.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Live CV Website
+
+🔗 [View My Resume](https://yourusername.github.io/your-repo-name)
+
+*(Replace the URL above with your actual GitHub Pages link)*
+
+---
+
+## 🧠 Key Sections
+
+- 👋 **About Me** - I’m an Electrical Engineering graduate from GIFT University with a focus on embedded systems and automation. Passionate about solving real-world problems through innovative tech solutions.
+
+
+
+- **Education** – BSc Electrical Engineering, GIFT University (2021–2025)
+- **Experience** – Internship at 132kV Grid Station (GEPCO)
+- **Projects**
+  - Temperature Control System (Thermistor + Fan)
+- **Certifications**
+  - Python Specialization – University of Michigan (Coursera)
+- **Skills**
+  - C, C++, MATLAB/Simulink, Proteus, AutoCAD, HTML/CSS
+
+---
+
+
+## 📫 Contact Me
+
+- 📧 Email: [aliyank7171@gmail.com](mailto:aliyank7171@gmail.com)
+- 📍 Location: Gujranwala, Pakistan
+- 🔗 LinkedIn: [Aliyan Hassan](https://www.linkedin.com/in/aliyan-hassan-)
+
+---
+
+> Thank you for visiting my profile! Feedback is welcome.
