@@ -140,12 +140,13 @@ body {
     overflow: hidden;
     border: 3px solid white;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Push content to top */
 }
 
 .profile-pic img {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 30%;
-    transform: scale(3.3); /* Zooms out slightly */
+    height: auto;
+    min-height: 100%;
 }
