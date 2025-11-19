@@ -143,8 +143,9 @@ body {
   }
   
 .profile-pic img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
+    width: 180px;        /* change size here */
+    height: 180px;
+    object-fit: cover;   /* prevents stretching */
+    border-radius: 50%;  /* circle photo */
 }
 
