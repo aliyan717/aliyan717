@@ -34,7 +34,7 @@ This repository hosts my personal **digital CV**, built using HTML/CSS and deplo
 
 - 📧 Email: [aliyank717@gmail.com](mailto:aliyank717@gmail.com)
 - 📍 Location: Gujranwala, Pakistan
-- 🔗 LinkedIn: [Aliyan Hassan](https://www.linkedin.com/in/aliyan-hassan-)
+- 🔗 LinkedIn: [Aliyan Hassan]([https://www.linkedin.com/in/aliyan-hassan-](https://www.linkedin.com/in/aliyan-hassan-075990273/))
 
 ---
 
