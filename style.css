@@ -147,5 +147,5 @@ body {
     height: 100%;
     object-fit: cover;
     object-position: center 25%;
-    transform: scale(1.1); /* Zooms out slightly */
+    transform: scale(2.2); /* Zooms out slightly */
 }
