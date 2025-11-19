@@ -143,8 +143,8 @@ body {
   }
   
 .profile-pic img {
-    width: 250px;      /* adjust as you like */
-    height: auto;
-    object-fit: contain;   /* NO CROP */
+    width: 250px;
+    height: 350px;      /* set fixed height */
+    object-fit: cover;  
+    object-position: top center;  /* ✨ show full face */
 }
-
