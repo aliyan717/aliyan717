@@ -146,5 +146,5 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: top;   /* THIS FIXES THE CUT FACE */
+    object-position: center;   /* THIS FIXES THE CUT FACE */
 }
